@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
