@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0066-plus-one) |
 | [1635-number-of-good-pairs](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
