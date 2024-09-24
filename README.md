@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0595-big-countries) |
 | [1155-product-sales-analysis-iii](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/1155-product-sales-analysis-iii) |
+| [1827-invalid-tweets](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/1827-invalid-tweets) |
 ## Math
 |  |
 | ------- |
