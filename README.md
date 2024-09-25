@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0066-plus-one) |
 | [1635-number-of-good-pairs](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
