@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0620-not-boring-movies) |
 | [1155-product-sales-analysis-iii](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/1155-product-sales-analysis-iii) |
+| [1258-article-views-i](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Math
