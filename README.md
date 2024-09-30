@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Kanhaiya-Kuche19/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
